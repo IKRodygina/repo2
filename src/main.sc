@@ -37,7 +37,7 @@ theme: /
     
     state: card
         q!: * (card/карточк*/прост*/обычн*) *
-        a: Пример карточки типа card:
+        a: Пример карточки карточки карточки типа card:
         script:
             showCardExample();
         go!: /Start
